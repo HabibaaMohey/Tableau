@@ -38,8 +38,7 @@ Home Office).
 2. Each Chart has a grey border
 3. Chart #1: Top 10 countries by sales.
 4. Chart #2: Top 10 state by sales based on chart #1 selection
-5. Remove any gridli![walmart-canada-retail-company-logo-walmart-logo-8f2ef989c5129c69f5bbe3dd6ecfdf1d](https://user-images.githubusercontent.com/132647130/236651759-2f0945ad-e63c-4c47-b1fa-6018a38c32f0.png)
-ne
+5. Remove any gridline
 
 
 
