@@ -39,3 +39,9 @@ Home Office).
 3. Chart #1: Top 10 countries by sales.
 4. Chart #2: Top 10 state by sales based on chart #1 selection
 5. Remove any gridline
+
+
+
+
+https://user-images.githubusercontent.com/132647130/236652246-68fb64e0-6261-42b2-8ef0-389a2cd0129b.mp4
+
