@@ -1,6 +1,11 @@
 # Tableau
 Super Store Project, This Project shows Walmart store's total (sales ,profit , quantity ) among years from 2011-2014 in United States and indicates the growth rate from previous year, and also performance of each month among shipmode distribution filtering by year , each state in US , segment , category and the last dashboard shows the top 10 countries with top 10 states filtering year ,category , sub-category. 
  
+ 
+ 
+ https://user-images.githubusercontent.com/132647130/236652246-68fb64e0-6261-42b2-8ef0-389a2cd0129b.mp4
+ 
+ 
 #  General Requirements
 
 1. Dashboards size is Automatic.
@@ -43,5 +48,5 @@ Home Office).
 
 
 
-https://user-images.githubusercontent.com/132647130/236652246-68fb64e0-6261-42b2-8ef0-389a2cd0129b.mp4
+
 
